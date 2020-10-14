@@ -1,1 +1,3 @@
 .venv/
+*.npz
+imitation/valid_100K_disc0.99_cleaned.npz
